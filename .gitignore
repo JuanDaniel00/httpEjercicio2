@@ -51,3 +51,6 @@ credentials.json
 *.db.backup
 # Ignorar node_modules
 /node_modules/
+
+#Ingnorar archivo de documentacion
+
