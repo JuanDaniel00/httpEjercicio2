@@ -51,3 +51,6 @@ credentials.json
 *.db.backup
 # Ignorar node_modules
 /node_modules/
+
+# Ignorar archivos de prueba de middleware
+src/middleware/pruebaMiddleware.js
