@@ -54,3 +54,5 @@ credentials.json
 
 #Ingnorar archivo de documentacion
 
+# Ignorar archivos de prueba de middleware
+src/middleware/pruebaMiddleware.js
