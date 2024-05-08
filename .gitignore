@@ -52,5 +52,7 @@ credentials.json
 # Ignorar node_modules
 /node_modules/
 
+#Ingnorar archivo de documentacion
+
 # Ignorar archivos de prueba de middleware
 src/middleware/pruebaMiddleware.js
